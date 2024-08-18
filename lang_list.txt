@@ -1,0 +1,23 @@
+--------------------
+Programming languages I coded in:
+--------------------
+
+Pascal
+Delphy
+HTML
+CSS
+Javascript
+PHP
+Java
+Python
+SQL
+Lua
+Emacs lisp
+Haskell
+Puresript
+Rust
+Solidity
+C
+C++
+Perl
+Bash
